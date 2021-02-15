@@ -1,0 +1,10 @@
+name: WitherSpawn
+version: 1.0
+author: ASFY
+main: me.ASFY.assignment.Main
+description: Spawns a wither
+
+commands:
+  wither:
+    aliases: [ws]
+    description: /ws to spawn Wither
